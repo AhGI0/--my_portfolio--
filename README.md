@@ -32,8 +32,4 @@ Here, you can write a short paragraph about yourself and your skills. You can al
 - <p><a target="_blank" href="https://github.com/AhGI0//">GitHub</a></p>
 
 
-## Resume
 
-If you have a PDF version of your resume, you can host it online and provide a link here.
-
-- <a href ="./src/My.pdf">Download Resume</a>
